@@ -1,7 +1,7 @@
 .blog_last {
     width: 100%;
     min-height: 100vh;
-    background: url(/assets/glassmp.jpg) no-repeat center center; 
+    background: url(assets/glassmp.jpg) no-repeat center center; 
     background-size: cover;
  }
 .blog_last {
